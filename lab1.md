@@ -82,7 +82,7 @@ The output above indicates that two errors occurred during compilation; this is 
 
 If you wish to write new unit tests as you code, they should be added to the <tt>test/simpledb</tt> directory.
 
-<p>For more details about how to use Ant, see the [manual](http://ant.apache.org/manual/). The [Running Ant](http://ant.apache.org/manual/running.html) section provides details about using the `ant` command. However, the quick reference table below should be sufficient for working on the labs.
+For more details about how to use Ant, see the [manual](http://ant.apache.org/manual/). The [Running Ant](http://ant.apache.org/manual/running.html) section provides details about using the `ant` command. However, the quick reference table below should be sufficient for working on the labs.
 
 Command | Description
 --- | ---
